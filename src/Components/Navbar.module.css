@@ -8,13 +8,13 @@
 }
 
 .name {
-  color: #207cf3;
+  color: rgb(24, 144, 255);
   font-size: 1.1rem;
   font-weight: bold;
 }
 
 .logout {
-  background: #207cf3;
+  background: rgb(24, 144, 255);
   padding: 5px 10px;
   color: #fff;
   border-radius: 5px;
@@ -23,5 +23,6 @@
 }
 
 .logout:hover {
-  background: #276ac2;
+  background: rgb(0, 110, 255);
+
 }
